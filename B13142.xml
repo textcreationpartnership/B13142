@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation concerning tobacco.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13142</idno><idno type="EEBO-CITATION">99892700</idno>
+  <idno type="VID">188366</idno>
+  <idno type="EEBO-PROQUEST">2240925063</idno>
+  
+            <idno type="STC">STC 9109</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[14]</idno>
+            <idno type="STC">ESTC S123876</idno>
+            <idno type="PROQUEST">ocm99892700</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892700e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13142)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188366)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation concerning tobacco.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>3, [1] sheets.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1637 [i.e. 1638]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Dated at end: VVhitehall, this fourteenth day of March, in the thirteenth year of Our reign.</note>
+                  <note>Arms 21; Steele notation: loving rein 2) Realme, 3) to 4) hence- service,.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tobacco --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188366:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <head type="sub">❧ A Proclamation concerning Tobacco.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas We have had especiall care to provide, That Our loving</hi> Subjects the Planters of and in <hi>Virginia,</hi> the <hi>Summer Islands, Caribee Islands,</hi> &amp; other Our Forrein Plantations might be encouraged to ap<g ref="char:EOLhyphen"/>ply themselves to staple Commodities, fit for the establishing of Co<g ref="char:EOLhyphen"/>lonies, that so the said Plantations might the better flourish and be<g ref="char:EOLhyphen"/>come usefull to Our Kingdomes, and the Planters might be enabled to fortifie and secure themselves as well against the invasion of For<g ref="char:EOLhyphen"/>rein Enemies, as the assaults and incursions of the Natives; Yet notwithstanding this Our care, the said Planters finding a present though small return of profit for Tobacco, have hitherto wholly betaken themselves to the planting thereof, little minding more solid Commodities, their own safetie, or any better or other way or means of supportation and subsistence.</p>
+            <p>And whereas Our Merchants working upon the necessities of the Planters, have from time to time bought their Tobacco at low and small prices, therby occasioning the said Planters to grow negligent and carelesse of the well ordering their Tobacco, by means whereof much unserviceable Tobacco hath from Our said Colonies been imported hither, and hath been sophisticated, mixed and stamped with rotten fruits, stalks of Tobacco, and other corrupt ingredients, and afterwards sold and uttered to Our people.</p>
+            <p>And whereas the vain and wanton taking of Tobacco being at length grown to an excesse, and this excesse having begotten an inordinate desire thereof in those that use it, and much of the Tobacco of Our said Colonies imported hither, being unserviceable as aforesaid, divers of Our Merchants for their own private gain have returned the proceed of the solid Commodities of Our Kingdoms by them vented in Forreign parts in Spanish Tobacco, &amp; many of Our Sub<g ref="char:EOLhyphen"/>jects
+<pb facs="tcp:188366:2"/>here have planted great quantities of Tobacco in severall parts of this Our Realme, which Tobacco here planted through the coldnesse of the Climate, and unaptnesse of the Soil, not coming to a perfect maturitie, is altogether unwholesome to be taken. By all which means the forreigne Plantations of Our Subjects remain unfortified, and are in apparant danger to be ruined, the Planters are grieved and discouraged, the Colonies of other Nations do flourish, the wealth of Our Kingdoms is exhausted, the immoderate use of a vain and need<g ref="char:EOLhyphen"/>lesse weed is continued, the health of Our Subjects is much impaired, and their manners in danger to be depraved.</p>
+            <p>And although Wee out of Our Princely care of Our said Plantations abroad, and the good of Our Subjects at home, have formerly as well by Proclamation as otherwise, given direction in the premisses, and have provided against all the afore-mentioned evils, yet this Our care hath not hitherto produced that good effect which We intended and desired, for that fit, diligent and able Agents have not hitherto been imployed in these Our services, to see Our pur<g ref="char:EOLhyphen"/>poses deduced into Act: For these causes, and for divers other weighty considerations tending to the honour of Our said Plantations, &amp; to the good aswel of Our said Planters, as of Our peo<g ref="char:EOLhyphen"/>ple here, Wee by the advice of the Lords and others of Our Privy Councell, have resolved to regulate Our said Plantations, and the planting, making up, and ordering of Tobacco there, and to limit and appoint what quantities of Tobacco shall from henceforth be imported into Our Kingdoms, aswell for the expence of Our Realmes, as for Our own services, and al<g ref="char:EOLhyphen"/>so to buy and take into Our own hands and mannaging all Tobacco from henceforth so to be imported, at such reasonable prices to be given for the same, as shall be expedient for the re<g ref="char:EOLhyphen"/>lief and better encouragement of the said Planters, and likewise to regulate the trade and sales of Tobacco here at home, and to commit the care and trust of the premisses unto such fit Agents as Wee shall nominate in that behalf; All which Wee intend to put in speedy execution.</p>
+            <p>And to the end Our Royall intentions touching the premisses may the better take effect, Wee do hereby will and command, That no person whatsoever, do at any time here<g ref="char:EOLhyphen"/>after plant or cause to be planted any Tobacco within Our Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> or either of them, or within Our Dominion of <hi>Wales,</hi> or Town of <hi>Barwick,</hi> or within Our Islands of <hi>Iersey</hi> and <hi>Gernesey,</hi> or either of them, or within Our Isle of <hi>Man:</hi> And that all To<g ref="char:EOLhyphen"/>bacco already planted, and now growing there, be presently displanted and utterly destroyed.</p>
+            <p>And to the end the doing hereof be not in any wise omitted or neglected, Wee do charge and command all Constables, Tithingmen, Headboroughs, and other Officers within their seve<g ref="char:EOLhyphen"/>rall limits and jurisdictions carefully to see the same executed accordingly. And further Wee do will and command all Iustices of Peace, Maiors, Sheriffes, and otherprincipall Officers in their severall places, within the compasse of their severall jurisdictions and authorities, upon complaint to them made, to cause the same to be duly performed, without partialitie, as they and every of them will answer their Contempts at their perils.</p>
+            <p>And Wee do further will and command, that no person or persons whatsoever, within Our said Realms and Dominions, do from henceforth presume to buy, sell, or utter any To<g ref="char:EOLhyphen"/>bacco of the growth of Our said Kingdomes of <hi>England</hi> and <hi>Ireland,</hi> Dominion of <hi>Wales,</hi>
+               <pb facs="tcp:188366:3"/>Town of <hi>Barwick,</hi> and Islands of <hi>Jersey, Gernsey</hi> and <hi>Man,</hi> or any of them, or to let their grounds to Farm to any person or persons, to plant the same with Tobacco, or to stamp, beat, or mixe any Tobacco whatsoever with rotten fruits, the stalks of Tobacco, or any other bad or corrupt Ingredient, the same being utterly unwholesome to be taken as aforesaid. And Wee do like<g ref="char:EOLhyphen"/>wise will and command, That no Tobacco of the growth of any parts or places beyond the Seas, belonging to, or under the obedience of any Forreigne King, Prince or State whatsoever, or of the growth of Our said Colonies and Forreign Plantations, be from henceforth imported into Our Kingdomes of <hi>England,</hi> and <hi>Ireland,</hi> and Dominion of <hi>Wales,</hi> or any of them, or into any other Our Dominions, or into any Port, Haven, Creek, or place to them or any of them belong<g ref="char:EOLhyphen"/>ing, more or other, then only such and so much of the Tobacco of the growth of the Plantati<g ref="char:EOLhyphen"/>ons of the King of <hi>Spaine,</hi> as We by Our Letters under Our Privie Seal, or otherwise shall be pleased to allow; and such and so much of the Tobacco of the growth of Our own Colonies, as We shall in like manner declare to be competent for the expence of Our Kingdomes, and fit for Our own services, and for the better relief and encouragement of the said Planters.</p>
+            <p>And We do further will and command, That no Tobacco of the growth of Our said Plan<g ref="char:EOLhyphen"/>tations or any of them be from thence transported in any English or other Ship or Bottome unto any Forreigne parts under the obedience of any Forreigne King, Prince, or State what<g ref="char:EOLhyphen"/>soever; but that the same Tobacco be first imported unto Our Port of <hi>London,</hi> and entred in Our Custome-house there: And that no Tobacco of what sort soever be from henceforth import<g ref="char:EOLhyphen"/>ed, landed, or unladed to, in, or at any other Port, Haven, Creek, or place within Our said King<g ref="char:EOLhyphen"/>domes of <hi>England</hi> and <hi>Ireland,</hi> and Our Dominion of <hi>Wales,</hi> or any of them, or within any other Our Dominions, then to, in, or at Our Port of <hi>London</hi> onely. And that all Merchants, Ma<g ref="char:EOLhyphen"/>sters and Owners of any Ship or Ships, and other persons whatsoever within or under Our obedience, do take notice of Our Royall command and pleasure herein, and do carefully and duely observe the same accordingly.</p>
+            <p>And We do hereby further will and command, That all Tobacco so imported and entred as aforesaid (other then such as shall be imported and entred by Our said Agents) shall from hence<g ref="char:EOLhyphen"/>forth be sold and delivered unto the hands of Our said Agents to Our own immediate use, at, and for such valuable rates and prices to be given for the same, as shall be reasonably agreed upon between the Planters, Owners and Factours thereof, and Our said Agents on Our behalfe.</p>
+            <p>And Our pleasure further is, and Wee do hereby charge and command, That none of Our loving Subjects comercing, or any way trading in or about Tobacco, nor other person or persons whatsoever, do from henceforth presume to buy any Tobacco in grosse of what sort so<g ref="char:EOLhyphen"/>ever, in any Port, Haven, Creek, or place within Our said Realms and Dominions, at the first hand, or of any person or persons whatsoever, other then of Our said Agents onely; And that all Tobacco bought of Our said Agents, shall be sealed with a seal to be appointed for that purpose, and that the quantity and quality thereof with the time when the same was bought be expressed, in and by a Note in writing indented between the Buyer and the Seller, if to Our said Agents it shall seem fitting for this Our service.</p>
+            <pb facs="tcp:188366:4"/>
+            <p> And Wee do further charge and command, That no Tobacco whatsoever be from hence<g ref="char:EOLhyphen"/>forth shipped or laded to be transported from any Port, Haven, Creek, or other place of Our Realm of <hi>England,</hi> Dominion of <hi>Wales,</hi> Port or Town of <hi>Barwick,</hi> or from any other Port within Our Dominions, without the Licence and consent of Our said Agents, and the same to be done in such manner, and upon such security to be given to the use of Vs, Our Heirs and Successours, as to Our said Agents in their discretions shall seem expedient for Our ser<g ref="char:EOLhyphen"/>vice in that behalf.</p>
+            <p>And further Wee do hereby strictly command, That Our Royall pleasure hereby decla<g ref="char:EOLhyphen"/>red be in all things duely and truely observed upon pain of confiscation and forfeiture of all Tobacco of what sort so ever imported or exported, laded or unladed, bought or sold contrary to the effect and true meaning of this Our Proclamation, and under such further pains and pe<g ref="char:EOLhyphen"/>nalties, as by the Lawes of Our Realms, or Our Prerogative Royall may be inflicted up<g ref="char:EOLhyphen"/>on the Offenders. Which Tobacco so forfeited and confiscated, shall be immediatly brought to Our Custome-house in <hi>London,</hi> or to such other place as shall hereafter bee appointed in that behalfe, there to bee valued or apprized; and after such valuation or apprizement made, the Officer or other person by whose diligence such forfeiture was discovered, shall have the one moity of the same forfeiture or value for his service and future encouragement, and the other part thereof shall go to Our own use.</p>
+            <p>And Wee do hereby straitly charge and command all Customers, Controllers, Search<g ref="char:EOLhyphen"/>ers, Waiters, and all other Officers and Ministers of and belonging to Our Customes; And also all Iustices of Peace, Maiors, Sheriffs, Constables, and other Our Officers, Mi<g ref="char:EOLhyphen"/>nisters, and loving Subjects in their severall places and degrees, to take notice of this Our Royall pleasure &amp; commandment, and to be aiding, helping and assisting to Our said Agents and their Deputies, Factours and servants in all things touching and concerning this Our service, whereof Wee are resolved to require a due and strict account.</p>
+            <closer>
+               <dateline>Given at Our Court at VVhitehall, <date>this fourteenth day of March, in the thirteenth yeer of Our Reign.</date>
+               </dateline>
+               <lb/> ❧ God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL. 1637.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
